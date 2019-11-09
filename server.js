@@ -1,4 +1,4 @@
-const hostname = 'https://hoangvanhoa-profile.herokuapp.com/';
+const hostname = '127.0.0.1';
 const port = 3001;
  
 const server = require('./controller.js');

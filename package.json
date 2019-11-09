@@ -2,7 +2,7 @@
   "name": "simple-rest-apis-nodejs-without-frameworks",
   "version": "1.0.0",
   "description": "simple-rest-apis-nodejs-without-frameworks",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/hoangvanhoa1701/simple-rest-apis-nodejs-without-frameworks.git"
   },
+  "keywords": [
+    "rest",
+    "apis",
+    "node",
+    "express"
+  ],
   "author": "hoangvanhoaprofile",
   "license": "ISC",
   "bugs": {
